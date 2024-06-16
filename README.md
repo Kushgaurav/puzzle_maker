@@ -4,6 +4,15 @@ A simple implementation of the classic mini-game wiregamer Sliding Puzzle, using
 
 When mixing a picture, random replacement of slots is not used, only natural mixing by moving a free slot, thanks to this, an error is excluded, due to which the puzzle may not be assembled.
 
+
+
+Step 1 Click on link https://kushgaurav.github.io/puzzle_maker/
+
+Step 2 Upload img file
+
+Step 3 Play 
+
+
 By solving the puzzle, you can move several blocks in a column and a row in one move. You can set controls for the GamePad and keyboard.
 ![puzzle game screen Short](image.png)
 
